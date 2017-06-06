@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mvp</string>
+    <string name="title_activity_user_logn">UserLognActivity</string>
+    <string name="btn_login">登录</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+</resources>

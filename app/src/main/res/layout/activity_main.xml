@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent"
+    tools:context="me.sunshu.action.MainActivity">
+
+
+    <me.sunshu.action.DispatchTouchEventLinearLayout
+        android:orientation="vertical"
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/tv1"
+            android:layout_margin="10dp"
+            android:background="#900990"
+            android:layout_width="50dp"
+            android:layout_height="50dp" />
+        <TextView
+            android:id="@+id/tv2"
+            android:background="#900990"
+            android:layout_margin="10dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp" />
+        <TextView
+            android:id="@+id/tv3"
+            android:background="#900990"
+            android:layout_margin="10dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp" />
+        <TextView
+            android:id="@+id/tv4"
+            android:background="#900990"
+            android:layout_margin="10dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp" />
+        <TextView
+            android:id="@+id/tv5"
+            android:background="#900990"
+            android:layout_margin="10dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp" />
+        <TextView
+            android:id="@+id/tv6"
+            android:background="#900990"
+            android:layout_margin="10dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp" />
+
+
+
+    </me.sunshu.action.DispatchTouchEventLinearLayout>
+
+</LinearLayout>
